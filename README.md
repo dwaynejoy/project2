@@ -1,2 +1,2 @@
 # project2
-implemented php tenplate for site.
+implemented php template for site.
